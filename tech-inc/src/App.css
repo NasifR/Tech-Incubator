@@ -61,17 +61,7 @@ button {
   color: #fff;
   letter-spacing: 1px;
 }
-#23
-.login .loginContainer h1 {
-  width: 100%;
-  border: none;
-  outline: none;
-  font-size: 19px;
-  padding: 10px;
-  background: rgba(255, 255, 255, 0.1);
-  color: #fff;
-  letter-spacing: 1px;
-}
+
 
 .login .loginContainer .btnContainer {
   width: 100%;
@@ -130,4 +120,8 @@ button {
   width: 86px;
   padding: 8px 0;
   background: #3a2b58;
+}
+
+.complete {
+  text-decoration: line-through;
 }
